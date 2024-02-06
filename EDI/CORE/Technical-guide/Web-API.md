@@ -51,7 +51,7 @@ For more details see, custom services Microsoft documentation: <br>
 
 # Connection setup
 The connection setup for web services need to be specified here: **EDI > Setup > Connection setup > Web API settings** <br>
-See [guide](https://dxcanzproduct.github.io/DXC-Products-for-Microsoft-Business-Applications/EDI/CORE/Setup/Connection-setup.html#web-services) for more details.
+See [guide](https://learndxcanzproduct.site/EDI/CORE/Setup/Connection-setup.html#web-services) for more details.
 
 # Inbound services
 The EDI module exposes various functions to send files into the inbound staging area for processing. <br>
